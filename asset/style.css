@@ -1,0 +1,12 @@
+#navBarTitleImg{
+    align-items: start;
+    width: 72px;
+    height: 60px;
+}
+.navTitle{
+    font-family: 'OutFitFont', sans-serif !important;
+    font-size: 100% !important;   
+}
+#nav-btn{
+    background-color: #ffffff;
+}
